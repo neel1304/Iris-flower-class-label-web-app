@@ -42,7 +42,7 @@ Network URL: http://10.0.0.11:8501
 
 ```
 
-**If you're using Streamlit for the firs time, they might ask for your Email-id, which of course you can ignore, by pressing Enter, but hey, Good articles could
+**If you're using Streamlit for the first time, they might ask for your Email-id, which of course you can ignore, by pressing Enter, but hey, Good articles could
 come your way ;)**
 
 
