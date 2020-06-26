@@ -24,7 +24,7 @@ pip install -U scikit-learn
 
 Running the web app 
 
-- Go to your downloaded folder using cd command**
+- Go to your downloaded folder using cd command
 
 ```
 
